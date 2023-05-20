@@ -1,6 +1,6 @@
-# Mercor Google Docs Clone
+#  Google Docs Clone
 
-Mercor Google Docs Clone is an open-source web application that aims to provide a collaborative document editing experience similar to Google Docs. This project serves as a starting point for building your own collaborative document editing platform.
+ Google Docs Clone is an open-source web application that aims to provide a collaborative document editing experience similar to Google Docs. This project serves as a starting point for building your own collaborative document editing platform.
 
 ## Features
 
@@ -42,4 +42,4 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 
 ## Acknowledgements
 
-- Mercor Google Docs Clone was inspired by the functionality of Google Docs and aims to provide a similar collaborative experience.
+-  Google Docs Clone was inspired by the functionality of Google Docs and aims to provide a similar collaborative experience.
