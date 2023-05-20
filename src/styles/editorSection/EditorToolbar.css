@@ -1,0 +1,76 @@
+.editorToolbar {
+  width: 100%;
+  height: 67px;
+  background-color: #f8fbfd;
+  border-bottom: 1px solid #c7c7c7;
+}
+
+.editorToolbar__tools {
+  padding: 0 15px;
+  min-height: 40px;
+  margin-bottom: 4px;
+  border-radius: 24px;
+  font-family: GoogleSans;
+  margin: 6px 16px 8px 16px;
+  background-color: #edf2fa;
+  -webkit-font-smoothing: antialiased;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 3px;
+}
+
+.editorToolbar__left,
+.editorToolbar__right {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.editorToolbar__tool {
+  height: 28px;
+  width: auto;
+  min-width: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  border-radius: 4px;
+  line-height: 24px;
+}
+
+.editorToolbar__tool_multi-child {
+  justify-content: space-between;
+}
+
+.editorToolbar__tool:hover {
+  background-color: #dfe5ea;
+}
+
+.editorToolbar__partition {
+  height: 20px;
+  width: 1px;
+  border-left: 0.5px solid gray;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.editorToolbar__tool_text {
+  margin: 0 5px 0 5px;
+  padding-left: 2px;
+  padding-right: 2px;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 28px;
+}
+
+.editorToolbar__fontSize {
+  border: 1px solid gray;
+  padding: 2px 4px 2px 4px;
+  width: auto;
+  height: 18px;
+  width: 25px;
+  border-radius: 4px;
+  background-color: transparent;
+  text-align: center;
+}

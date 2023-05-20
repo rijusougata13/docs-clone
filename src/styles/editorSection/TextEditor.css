@@ -1,0 +1,16 @@
+.editor {
+  flex: 1;
+  overflow: scroll;
+  background-color: #f8fbfd;
+}
+
+.editor__page {
+  width: 615px;
+  height: 1056px;
+  margin-top: 11px;
+  margin-left: 300px;
+  margin-bottom: 10px;
+  background-color: white;
+  border: 1px solid #c7c7c7;
+  padding: 100px;
+}
